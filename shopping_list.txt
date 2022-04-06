@@ -1,5 +1,5 @@
-bread
-milk
-butter
-cheese
-ham
+bread x 2
+milk x 1
+butter x 1
+cheese x 2
+ham x 2
