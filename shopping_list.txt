@@ -1,5 +1,5 @@
 bread x 2
-milk x 1
+milk x 2
 butter x 1
 cheese x 2
 ham x 2
